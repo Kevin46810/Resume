@@ -19,7 +19,7 @@ Upcoming Courses: Artificial Intelligence | Operating Systems | Application Deve
 
 SKILLS
 
-Technical Skills: Java  |  C++  |  C  |  Python  |  C#  |  Rust  |  JS  |  HTML  |  SQL  |  Git  |  Linux  |  Microsoft Office
+Technical Skills: Java  |  C++ |  Python  |  C#  |  Rust  |  Julia  |  Go  |  Ada  |  Zig  |  Git  |  Linux  |  Microsoft Office
 Soft Skills: Project management  |  Critical thinking  |  Documentation  |  Teamwork
 
 INDIVIDUAL PROJECTS
