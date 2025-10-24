@@ -1,5 +1,3 @@
-
-
 KEVIN BINDER
 kbind101@gmail.com  |  Cell 404-424-3350  | LinkedIn  |  GitHub
 															      
@@ -7,9 +5,13 @@ kbind101@gmail.com  |  Cell 404-424-3350  | LinkedIn  |  GitHub
 EDUCATION
 
 Mercer University | Macon, GA							           Expected Graduation: May 2026
+
 BA in Computer Science  |  Minor in Creative Writing
+
 GPA: 3.62
+
 Completed Coursework: Data Structures | File Structures | Algorithms | Programming | Networks | Calculus  
+
 Upcoming Courses: Artificial Intelligence | Operating Systems | Application Development | Mobile App Design
 
 SKILLS
@@ -44,16 +46,21 @@ Study Abroad Mercer on Mission | South Africa Computer Science					             
 WORK EXPERIENCE
 
 ESPN @ Mercer | Macon, GA									                                                        Dec. 2022 – Present
+
 Duties: Broadcasting games by tampering with audio, working behind the cameras, and saving video clips for highlights
 
 The Cheesecake Factory | Alpharetta, GA 						                                              May 2023 – Aug. 2024
+
 Riverside Pizza | Alpharetta, GA							                                                    Nov. 2021 – Aug. 2023
+
 Wild Wing Café | Alpharetta, GA							                                                      June 2021 – July 2021
+
 Duties: Preparing food, taking customer orders, cleaning up the kitchen, and stocking equipment
 
 VOLUNTEER WORK
 
 Crossings at Webb Bridge | Alpharetta, GA							                                             Aug. 2019 – Feb. 2020
+
 •	Worked with senior citizens with dementia, Alzheimer’s Disease, and assorted physical and emotional challenges
 
 •	Conducted activities every week, including word and balloon games, Bingo, golf, and bowling
