@@ -4,7 +4,9 @@ kbind101@gmail.com  |  Cell 404-424-3350  | LinkedIn  |  GitHub
 
 EDUCATION
 
-Mercer University | Macon, GA							           Expected Graduation: May 2026
+Mercer University | Macon, GA							           
+
+Expected Graduation: May 2026
 
 BA in Computer Science  |  Minor in Creative Writing
 
